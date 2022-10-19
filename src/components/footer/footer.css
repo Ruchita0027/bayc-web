@@ -1,0 +1,28 @@
+label {
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 1400px;
+    margin-top: 500px;
+}
+
+input {
+    background-color: #24272e ;
+    /* padding: 50px 30px 50px 80px; */
+    width: 400px;
+    height: 23px;
+    margin-top: 10px;
+
+}
+
+::placeholder {
+    color: #fff;
+    font-size: 12px;
+    padding-left: 9px;
+}
+
+.foot_par {
+    margin-left: 1120px;
+    font-size: 14px;
+    margin-top: -130px;
+}
+
